@@ -51,7 +51,6 @@ typings/
 
 # Output of 'npm pack'
 .eslintcache
-package-lock.json
 
 # Yarn Integrity file
 .yarn-integrity
@@ -60,3 +59,4 @@ package-lock.json
 .env
 
 _book
+package-lock.json
