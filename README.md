@@ -8,7 +8,9 @@
 
 ## 安装下载
 
-git clone 本项目的地址
+- 下载地址 https://github.com/LiuByron/fast-cache/releases
+
+git clone git@github.com:LiuByron/fast-cache.git
 
 npm install
 
