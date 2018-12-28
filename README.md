@@ -22,14 +22,21 @@ npm build 打包
 
 ## 快速使用
 
-简单接入的文档
+```js
+var FC = window.FastCache;
+var cache = new FC();
+cache.set('a', 100);
+alert(cache.get('a'));
+console.log(cache.clear())
+```
 
 - [使用文档](./doc/use/README.md)
 - [二次开发文档](./doc/dev/README.md)
 
 ## 交流 & 提问
 
-https://github.com/LiuByron/fast-cache/issues
+- 提问：https://github.com/LiuByron/fast-cache/issues
+- QQ群、微信群（及时反馈，及时回复社区）
 
 ## 关于作者
 
