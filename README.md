@@ -9,6 +9,8 @@
 ## 安装下载
 
 - 下载地址 https://github.com/LiuByron/fast-cache/releases
+- `npm i fast-cache-555`
+- CDN http://unpkg.com/fast-cache-555/release/bundle.js
 
 git clone git@github.com:LiuByron/fast-cache.git
 
